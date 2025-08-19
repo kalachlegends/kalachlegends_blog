@@ -1,0 +1,17 @@
+title = "Kalachlegends"
+[params]
+  description = "Мой блог и проекты."
+  mainSections = ["posts"]
+[params.author]
+  name = "Artem Kalachev, kalachlegends"
+  image = "img/author.png"
+  headline = "★ Пишу/работаю на волшебном языке Elixir. Люблю разработку и всякие волшебные автоматизации. Пытаюсь писать writings"
+  bio = ""
+  links = [
+    { telegram = "https://t.me/kalachlegends" },
+    { linkedin = "https://linkedin.com/in/kalachlegends" },
+    { github = "https://github.com/kalachlegends" },
+  ]
+
+[params.footer]
+  showThemeAttribution = false

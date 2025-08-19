@@ -1,0 +1,16 @@
+baseURL = 'https://kalachlegends.com/'
+languageCode = 'ru'
+theme = 'congo'
+[markup.goldmark.renderHooks.image]
+enableDefault = true
+
+[markup.goldmark.renderHooks.link]
+enableDefault = true
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'attachments'
+target = 'assets/attachments'
