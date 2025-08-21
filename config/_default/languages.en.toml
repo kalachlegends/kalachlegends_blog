@@ -1,0 +1,19 @@
+title = "Kalachlegends"
+[params]
+ mainSections = ["blog", "samples", "posts"]
+description = "My blog and projects."
+[params.author]
+name = "Artem Kalachev, kalachlegends"
+image = "img/author.png"
+headline = "★ I write/work in magical languages Elixir/JS/Flutter. I love development and all sorts of magical automations. Just launched my blog XD)"
+bio = ""
+links = [
+  { telegram = "https://t.me/kalachlegends" },
+  { linkedin = "https://linkedin.com/in/kalachlegends" },
+  { github = "https://github.com/kalachlegends" },
+  { email = "mailto:artem.kalachev.2002@gmail.com" },
+  { phone = "tel:+77087558749" },
+]
+
+[params.footer]
+  showThemeAttribution = false

@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "3669c60c7170049a",
+    "type": "split",
+    "children": [
+      {
+        "id": "66580b4799624ed2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2876f4065c1f621b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/ru/posts/sofle_keyboard_my_impressions/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "0ebf57cf4bad3c29",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/ru/posts/sofle_keyboard_my_impressions/NVIDIA_Overlay_E7KMYRjNPT.gif"
+              },
+              "icon": "lucide-image",
+              "title": "NVIDIA_Overlay_E7KMYRjNPT"
+            }
+          }
+        ]
+      },
+      {
+        "id": "68761573b6f1c7a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2c8f7f78dae8fbc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "013a0744ffb9f42c",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ff9f61e5702120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67694eb7e6a9811c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b3c2986cb254fbce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ab37283415964df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "56e6796d9e3abe46",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef53fdd54be3215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "550bcae02da1d654",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "baebdc6ca0645a29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c50303999909b8db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9dd02065240ba40d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2876f4065c1f621b",
+  "lastOpenFiles": [
+    "index.js",
+    "MakeFile",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_f326fd02efbcc533.png",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_109229e64dd782b2.png",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_144180aa8e4517de.webp",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_f64c3f4489715c27.webp",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_f01e9f39611d8f4f.webp",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_b01e765bab3b0848.png",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_244512764d261578.png",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_e51f7a99553955c0.webp",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_407e553becd4c836.webp",
+    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_91eb0c61172559fa.webp",
+    "content/ru/posts/sofle_keyboard_my_impressions/index.md",
+    "public/ru/posts/sofle_keyboard_my_impressions/video_2025-08-21_09-33-27.mp4",
+    "content/ru/posts/sofle_keyboard_my_impressions/video_2025-08-21_09-33-27.mp4",
+    "README.md",
+    "Untitled.md",
+    "content/ru/cv.md",
+    "resources/_gen/assets",
+    "public/ru/index.xml",
+    "public/ru/posts/index.xml",
+    "public/ru/tags/index.xml",
+    "public/ru/projects/index.xml",
+    "public/ru/categories/index.xml",
+    "public/ru/posts/sofle_keyboard_my_impressions/index.html",
+    "content/ru/_index.md",
+    "content/en/cv.md",
+    "content/posts/sofle_keyboard_my_impressions/index.ru.md",
+    "content/en/_index.md",
+    "content/ru/about.md",
+    "content/ru/about.ru.md",
+    "content/en/about.md",
+    "content/ru/cv.ru.md",
+    "content/ru/projects/_index.md",
+    "content/ru/_index.ru.md",
+    "content/en/projects/_index.ru.md",
+    "content/en/projects/_index.md",
+    "content/ru/posts/sofle_keyboard_my_impressions/index.ru.md",
+    "content/ru/sofle_keyboard_my_impressions/index.ru.md",
+    "content/Untitled.md",
+    "public/ru/sofle_keyboard_my_impressions/index.ru.md",
+    "static/ru/sofle_keyboard_my_impressions/index.ru.md",
+    "content/posts/sofle_keyboard_my_impressions/ru/index.ru.md",
+    "content/posts/sofle_keyboard_my_impressions/index.ru - Copy.md",
+    "content/_index.ru.md",
+    "content/about.md"
+  ]
+}

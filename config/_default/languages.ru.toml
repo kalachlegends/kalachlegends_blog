@@ -1,17 +1,19 @@
 title = "Kalachlegends"
 [params]
-  description = "Мой блог и проекты."
-  mainSections = ["posts"]
+ mainSections = ["blog", "samples", "posts"]
+description = "Kalachlegend's blog and projects"
 [params.author]
-  name = "Artem Kalachev, kalachlegends"
-  image = "img/author.png"
-  headline = "★ Пишу/работаю на волшебном языке Elixir. Люблю разработку и всякие волшебные автоматизации. Пытаюсь писать writings"
-  bio = ""
-  links = [
-    { telegram = "https://t.me/kalachlegends" },
-    { linkedin = "https://linkedin.com/in/kalachlegends" },
-    { github = "https://github.com/kalachlegends" },
-  ]
+name = "Artem Kalachev, kalachlegends"
+image = "img/author.png"
+headline = "★ Пишу/работаю на волшебных языках Elixir/JS/Flutter. Люблю разработку и всякие волшебные автоматизации. Стартанул свой блог XD)"
+bio = ""
+links = [
+  { telegram = "https://t.me/kalachlegends" },
+  { linkedin = "https://linkedin.com/in/kalachlegends" },
+  { github = "https://github.com/kalachlegends" },
+  { email = "mailto:artem.kalachev.2002@gmail.com" },
+  { phone = "tel:+77087558749" },
+]
 
 [params.footer]
   showThemeAttribution = false

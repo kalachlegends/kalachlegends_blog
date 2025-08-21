@@ -1,6 +1,20 @@
 baseURL = 'https://kalachlegends.com/'
 languageCode = 'ru'
+defaultContentLanguage = 'en'
 theme = 'congo'
+summaryLength = 0
+timeout=70000
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    weight = 3
+  [languages.ru]
+    contentDir = 'content/ru'
+    languageName = 'Russian'
+    weight = 3
+
 [markup.goldmark.renderHooks.image]
 enableDefault = true
 

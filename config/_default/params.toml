@@ -1,4 +1,28 @@
-homepage.layout = "profile"
-homepage.showRecent = true
-mainSections = ["posts"]
-enableSearch = true
+
+[params]
+[homepage]
+  layout = "profile" # valid options: page, profile, custom
+  showRecent = true
+  recentLimit = 5
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showBreadcrumbs = true
+  showDraftLabel = true
+  editAppendPath = true
+  showHeadingAnchors = true
+  showPagination = true
+  invertPagination = false
+  showReadingTime = true
+  showWordCount = true
+  showComments = false
+
+[list]
+  showBreadcrumbs = true
+  showSummary = true
+  showTableOfContents = false
+  showTaxonomies = true
+  groupByYear = true
+  paginationWidth = 1
