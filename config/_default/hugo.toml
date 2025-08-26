@@ -5,6 +5,11 @@ theme = 'congo'
 summaryLength = 0
 timeout=70000
 
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-CLF4ENY543'
+
 [languages]
   [languages.en]
     contentDir = 'content/en'

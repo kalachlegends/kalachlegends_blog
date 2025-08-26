@@ -17,7 +17,7 @@
   invertPagination = false
   showReadingTime = true
   showWordCount = true
-  showComments = false
+  showComments = true
 
 [list]
   showBreadcrumbs = true
