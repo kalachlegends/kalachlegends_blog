@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "85bf05a9763c71d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "0ebf57cf4bad3c29",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "NVIDIA_Overlay_E7KMYRjNPT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "68761573b6f1c7a0",
@@ -102,8 +115,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,36 +205,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2876f4065c1f621b",
+  "active": "67694eb7e6a9811c",
   "lastOpenFiles": [
-    "index.js",
-    "MakeFile",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_f326fd02efbcc533.png",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_109229e64dd782b2.png",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_144180aa8e4517de.webp",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_f64c3f4489715c27.webp",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051959_hu_f01e9f39611d8f4f.webp",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_b01e765bab3b0848.png",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_244512764d261578.png",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_e51f7a99553955c0.webp",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_407e553becd4c836.webp",
-    "resources/_gen/images/ru/posts/sofle_keyboard_my_impressions/Pasted image 20250816051757_hu_91eb0c61172559fa.webp",
+    "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_96ad4eb1ddaf2636.jpg",
+    "resources/_gen/images/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_96ad4eb1ddaf2636.jpg",
+    "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_54f0c28cb988cfd4.jpg",
+    "resources/_gen/images/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_54f0c28cb988cfd4.jpg",
+    "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_a7bb2a57482507d0.jpg",
+    "resources/_gen/images/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_a7bb2a57482507d0.jpg",
+    "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_4fbde0bd5537e6b2.jpg",
+    "resources/_gen/images/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_4fbde0bd5537e6b2.jpg",
+    "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_49dbb8fb75d6639f.webp",
+    "resources/_gen/images/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_49dbb8fb75d6639f.webp",
+    "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_c1dc2dd9dd20f6c8.webp",
+    "public/tags/nvim/index.xml",
+    "public/posts/index.xml",
+    "public/tags/keyboard/index.xml",
+    "public/posts/sofle_keyboard_my_impressions/index.html",
+    "public/posts/page/1/index.html",
+    "public/posts/page/1",
+    "public/posts/page",
+    "public/tags/keyboard/page/1/index.html",
+    "public/tags/keyboard/page/1",
+    "public/tags/keyboard/page",
+    "content/en/posts/sofle_keyboard_my_impressions/index.md",
+    "content/ru/posts 1/sofle_keyboard_my_impressions/index.md",
     "content/ru/posts/sofle_keyboard_my_impressions/index.md",
-    "public/ru/posts/sofle_keyboard_my_impressions/video_2025-08-21_09-33-27.mp4",
-    "content/ru/posts/sofle_keyboard_my_impressions/video_2025-08-21_09-33-27.mp4",
     "README.md",
     "Untitled.md",
     "content/ru/cv.md",
-    "resources/_gen/assets",
-    "public/ru/index.xml",
-    "public/ru/posts/index.xml",
-    "public/ru/tags/index.xml",
-    "public/ru/projects/index.xml",
-    "public/ru/categories/index.xml",
-    "public/ru/posts/sofle_keyboard_my_impressions/index.html",
     "content/ru/_index.md",
     "content/en/cv.md",
     "content/posts/sofle_keyboard_my_impressions/index.ru.md",
@@ -241,8 +256,6 @@
     "public/ru/sofle_keyboard_my_impressions/index.ru.md",
     "static/ru/sofle_keyboard_my_impressions/index.ru.md",
     "content/posts/sofle_keyboard_my_impressions/ru/index.ru.md",
-    "content/posts/sofle_keyboard_my_impressions/index.ru - Copy.md",
-    "content/_index.ru.md",
-    "content/about.md"
+    "content/posts/sofle_keyboard_my_impressions/index.ru - Copy.md"
   ]
 }

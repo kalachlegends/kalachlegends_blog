@@ -1,7 +1,7 @@
-title = "Kalachlegends"
+title = "Kalachlegends | Artem Kalachev"
 [params]
  mainSections = ["blog", "samples", "posts"]
-description = "Kalachlegend's blog and projects"
+description = "Kalachlegens (Артем Калачева) блог и проекты"
 [params.author]
 name = "Artem Kalachev, kalachlegends"
 image = "img/author.png"
