@@ -105,7 +105,7 @@ I think my config will suit any coder! Over a year of use, it has evolved into s
 ![](Pasted%20image%2020250817044812.png "")
 The very first thing I did was assign a separate key for language switching *(on Windows, this can only be done through scripts)*.
 ![](Pasted%20image%2020250821090957.png)
-А так же вынес на левую половинку переход на второй слой где хранятся все системные клавиши такие как F1 и PrintScreen.
+I also moved the transition to the second layer to the left half, where all the system keys like F1 and PrintScreen are stored.
 
 ### Layer 1 (A powerful text and code editor)
 ![](Pasted%20image%2020250817050201.png)
@@ -212,4 +212,4 @@ I used them for prewritten text — for example, to quickly write JS functions. 
 **Conclusion:**
 
 - With its custom combos and expandability, I think this can become the best keyboard out there. The only thing I’d change is the switches — I’d replace them with laptop-style ones.
-- **Sofle** is not only a file sharer but also a terminal machine, a Bluetooth connector, and a *2000x accelerator*.
+- **Sofle** is not only a file sharer but also a terminal machine, a Bluetooth connector, and a *2000x accelerator*.index.md
