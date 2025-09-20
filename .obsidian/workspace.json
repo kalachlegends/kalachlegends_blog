@@ -25,12 +25,14 @@
             "id": "85bf05a9763c71d4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "content/ru/posts/sofle_keyboard_my_impressions/index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -209,8 +211,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67694eb7e6a9811c",
+  "active": "85bf05a9763c71d4",
   "lastOpenFiles": [
+    "content/ru/_index.md",
+    "content/ru/posts/sofle_keyboard_my_impressions/index.md",
+    "content/ru/cv.md",
+    "content/ru/about.md",
+    "content/en/_index.md",
     "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_96ad4eb1ddaf2636.jpg",
     "resources/_gen/images/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_96ad4eb1ddaf2636.jpg",
     "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_54f0c28cb988cfd4.jpg",
@@ -221,7 +228,6 @@
     "resources/_gen/images/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_4fbde0bd5537e6b2.jpg",
     "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_49dbb8fb75d6639f.webp",
     "resources/_gen/images/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_49dbb8fb75d6639f.webp",
-    "public/posts/sofle_keyboard_my_impressions/feature_keyboard_hu_c1dc2dd9dd20f6c8.webp",
     "public/tags/nvim/index.xml",
     "public/posts/index.xml",
     "public/tags/keyboard/index.xml",
@@ -234,15 +240,10 @@
     "public/tags/keyboard/page",
     "content/en/posts/sofle_keyboard_my_impressions/index.md",
     "content/ru/posts 1/sofle_keyboard_my_impressions/index.md",
-    "content/ru/posts/sofle_keyboard_my_impressions/index.md",
     "README.md",
     "Untitled.md",
-    "content/ru/cv.md",
-    "content/ru/_index.md",
     "content/en/cv.md",
     "content/posts/sofle_keyboard_my_impressions/index.ru.md",
-    "content/en/_index.md",
-    "content/ru/about.md",
     "content/ru/about.ru.md",
     "content/en/about.md",
     "content/ru/cv.ru.md",
